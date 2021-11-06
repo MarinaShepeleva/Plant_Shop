@@ -793,7 +793,7 @@ body.ie img {
 }
 
 ._no-webp .buyMorePlants__img{
-  background-image: url(/img/buy_more_plant/1.jpg); }
+  background-image: url(../img/buy_more_plant/1.jpg); }
 
 .buyMorePlants__img {
   width: 513px;
@@ -970,4 +970,4 @@ body.ie img {
   }
 }
 
-._webp .buyMorePlants__img{ background-image: url(/img/buy_more_plant/1.webp); }
+._webp .buyMorePlants__img{ background-image: url(../img/buy_more_plant/1.webp); }
